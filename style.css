@@ -1,0 +1,39 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+#contact {
+  background-color: #ffff;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+.hoverr:hover {
+  background-color: #343a40;
+  transition: 0.3s ease-in-out;
+  transition-delay: 0.2s;
+  border-radius: 7px;
+  width: 250px;
+  padding-left: 6px;
+  padding-top: 1px;
+}
+
+.hoverh:hover {
+  background-color: #343a40;
+  transition: 0.3s ease-in-out;
+  transition-delay: 0.2s;
+  border-radius: 7px;
+}
+
+.nama {
+  font-size: 50px;
+  font-weight: bolder;
+  font-family: helvetica;
+}
